@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arvindk14
 - 🌱 I’m currently learning python
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love mexican food.
 
 <!---
