@@ -1,5 +1,5 @@
 Dict={
-      "table":"a piece of furniture"
-      "Cat": "a small animal"
-      )
-print(dictionary)
+      "table":["a piece of furniture","list of fact and figures"],
+      "Cat" : "a small animal"
+}
+print (Dict)
