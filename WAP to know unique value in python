@@ -1,0 +1,3 @@
+set1={"python","java","C","C++"}
+set2={"java","C","python","C","C++","HTML"}
+print(set1.union(set2))
