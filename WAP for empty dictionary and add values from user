@@ -1,0 +1,11 @@
+Sub1=str(input("Enter first Subjects :"))
+Mark1=int(input("Enter " + Sub1 + " Marks :" ))
+Sub2=str(input("Enter second Subjects :"))
+Mark2=int(input("Enter " + Sub2 + " Marks :" ))
+Sub3=str(input("Enter third Subjects :"))
+Mark3=int(input("Enter " + Sub3 + " Marks :" ))
+dict={
+    "Subjects":[Sub1,Sub2,Sub3],
+    "Marks":[Mark1, Mark2, Mark3]
+}
+print(dict)
